@@ -18,5 +18,12 @@ let stringNumber=String(someNumber);//This line is conevert the someNumber in th
 console.log(stringNumber);
 console.log(typeof stringNumber);
 
+// **************************Operation****************************//
+
+let value=3
+let negValue=-value
+console.log(negValue);
+  
+
 
 
